@@ -621,4 +621,4 @@ bot.on("message", message => {
 
 });
 
-bot.login("NTY4NTY1NzI5MDA4Mjg3NzU0.XMR3UQ.2th7koSEsLUgwFiQ6_uETcbG1ak");
+bot.login("process.env.TOKEN");
